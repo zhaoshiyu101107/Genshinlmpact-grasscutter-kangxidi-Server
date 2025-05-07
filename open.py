@@ -6,11 +6,11 @@ import tkinter as tk
 from tkinter import messagebox
 from PIL import Image, ImageTk
 
-#版本：0.0.0 beta
+#版本：4.0.0 beta
 #作者：昭诗雨
 # 创建主窗口
 root = tk.Tk()
-root.title("康熙启动器(服务端)-通用版")
+root.title("康熙启动器(服务端)-4.0.0")
 root.geometry("1200x600")  # 设置窗口大小
 root.configure(bg="gray")
 #root.iconbitmap(r'Example/favicon.ico')  # 设置主窗口图标
