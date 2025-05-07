@@ -1,0 +1,1 @@
+pyinstaller -w -F -i "data\Example\favicon.ico" open.py
