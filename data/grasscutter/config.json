@@ -129,9 +129,9 @@
           1002,
           4010
         ],
-        "welcomeMessage": "欢迎来到康熙帝GC 5..0",
+        "welcomeMessage": "欢迎来到康熙帝GC 5.0.0",
         "welcomeMail": {
-          "title": "欢迎来到康熙帝GC 5..0",
+          "title": "欢迎来到康熙帝GC 5.0.0",
           "content": "嗨！\r\n欢迎来到康熙帝GC！\n",
           "sender": "昭诗雨",
           "items": []
