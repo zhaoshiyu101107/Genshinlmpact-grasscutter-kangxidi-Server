@@ -6,11 +6,11 @@ import tkinter as tk
 from tkinter import messagebox
 from PIL import Image, ImageTk
 
-#版本：4.0.0 beta
+#版本：5.0.0 beta
 #作者：昭诗雨
 # 创建主窗口
 root = tk.Tk()
-root.title("康熙启动器(服务端)-4.0.0")
+root.title("康熙启动器(服务端)-5.0.0")
 root.geometry("1200x600")  # 设置窗口大小
 root.configure(bg="gray")
 #root.iconbitmap(r'Example/favicon.ico')  # 设置主窗口图标
@@ -44,13 +44,13 @@ def show_help():
 #官网
 # 官网
 def open_guanwang():
-    webbrowser.open("https://home.kangxidi.asia/")
+    webbrowser.open("https://zhan.kangxidi.shop/")
 #康熙盘
 def open_pan():
     webbrowser.open("https://pan.kangxidi.shop/")
 #github
 def open_github():
-    webbrowser.open("https://github.com/zhaoshiyu101107/Genshinlmpact-grasscutter-kangxidi-Server")
+    webbrowser.open("https://github.com/woailulu/GenshinImpact-PrivateService-zuizhong")
 #百度
 def open_baidu():
     webbrowser.open("https://www.baidu.com")
